@@ -1,0 +1,44 @@
+@charset "UTF=8";
+
+body {
+    text-align: center;
+}
+
+/*.table_and_bottoms{
+    display: flex;
+    justify-content: column;
+}*/
+
+table {
+    margin-top: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10rem;
+    text-align: left;
+    transform: scale(2.5);
+}
+
+.days{
+    font-size: 10px;
+    height: 150px;
+}
+
+.make_plans{
+    padding: 10px 30px;
+    margin:10px;
+    width: 150px;
+    font-size: 1.0rem;
+    background-color: aqua;
+    color: black;
+    border-radius: 44px;
+}
+
+.make_tasks{
+    padding: 10px 30px;
+    margin:10px;
+    width: 150px;
+    font-size: 1.0rem;
+    background-color: aqua;
+    color: black;
+    border-radius: 44px;
+}
